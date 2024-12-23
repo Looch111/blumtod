@@ -473,8 +473,8 @@ async def get_data(data_file, proxy_file):
 async def main():
     banner = f"""
 {magenta}┏┓┳┓┏┓  ┏┓    •      {white}BlumTod Auto Claim for {green}blum
-{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {green}Author : {white}AkasakaID
-{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/AkasakaID
+{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {green}Author : {white}Kadiri Emmanuel
+{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/Looch111
 {magenta}              ┛      {green}Note : {white}Every Action Has a Consequence
         """
     arg = argparse.ArgumentParser()
